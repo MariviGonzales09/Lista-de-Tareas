@@ -1,0 +1,26 @@
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.exe.config
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.exe
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.pdb
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.xml
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Form1.resources
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Resources.resources
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.vbproj.GenerateResource.Cache
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.exe
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.xml
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.pdb
+C:\Users\GONZALES ALMEYDA\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.exe.config
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.exe
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.xml
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.pdb
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.exe
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.pdb
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\bin\Debug\ListTareas.xml
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Bandeja_de_Entrada.resources
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Form1.resources
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Resources.resources
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Hoy.resources
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Proximos_Dias.resources
+C:\Users\Alumno\Desktop\ListTareas\ListTareas\obj\Debug\ListTareas.Lunes.resources
